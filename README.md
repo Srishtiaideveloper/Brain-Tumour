@@ -1,4 +1,4 @@
-# NeuralBlack: Advanced Brain Tumor Detection System
+# Brain Tumor Detection 
 
 > **Developed by Srishti Bisht • June 2025**  
 > Pioneering an end-to-end AI solution—from data preprocessing to real-time diagnosis—to empower radiologists with quick, accurate insights.
