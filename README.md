@@ -1,6 +1,8 @@
-# Brain Tumor Detection 
+# 🧠 Brain Tumor Detection using Deep Learning
 
-> **Developed by Srishti Bisht • June 2025**  
+> **Developed by Srishti**  
+> **Date:** June 2025  
+> **Tech Stack:** Python, PyTorch, ResNet50, OpenCV, Flask, Streamlit  
 > Pioneering an end-to-end AI solution—from data preprocessing to real-time diagnosis—to empower radiologists with quick, accurate insights.
 
 ---
